@@ -1,7 +1,21 @@
 {
   "tokenSetOrder": [
+    "ios/styles",
+    "ios/components",
+    "android/styles",
+    "android/components",
     "web/styles",
+    "web/components",
     "breakpoint/extra_large",
-    "large"
+    "breakpoint/large",
+    "breakpoint/medium",
+    "breakpoint/small",
+    "mode/light",
+    "mode/dark",
+    "brand/ktm",
+    "brand/hqv",
+    "brand/gg",
+    "core/tokens",
+    "core/measures"
   ]
 }

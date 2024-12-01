@@ -1,0 +1,30 @@
+{
+  "blue": {
+    "100": {
+      "$type": "color",
+      "$value": "#249bff"
+    },
+    "000": {
+      "$type": "color",
+      "$value": "#009fff"
+    }
+  },
+  "orange": {
+    "000": {
+      "$type": "color",
+      "$value": "#ff8b3e"
+    }
+  },
+  "steel": {
+    "000": {
+      "$type": "color",
+      "$value": "#4133ff"
+    }
+  },
+  "ruby": {
+    "000": {
+      "$type": "color",
+      "$value": "#f63f3f"
+    }
+  }
+}

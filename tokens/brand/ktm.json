@@ -1,0 +1,14 @@
+{
+  "headings": {
+    "$type": "text",
+    "$value": "Blender Pro"
+  },
+  "body": {
+    "$type": "text",
+    "$value": "Trade Gothic LT"
+  },
+  "primary": {
+    "$type": "color",
+    "$value": "{orange.000}"
+  }
+}

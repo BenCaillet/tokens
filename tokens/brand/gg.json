@@ -1,0 +1,14 @@
+{
+  "headings": {
+    "$type": "text",
+    "$value": "Industry"
+  },
+  "body": {
+    "$type": "text",
+    "$value": "Rajdhani"
+  },
+  "primary": {
+    "$type": "color",
+    "$value": "{ruby.000}"
+  }
+}

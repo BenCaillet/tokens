@@ -1,0 +1,14 @@
+{
+  "headings": {
+    "$type": "text",
+    "$value": "Helvetica Neue"
+  },
+  "body": {
+    "$type": "text",
+    "$value": "Helvetica Neue"
+  },
+  "primary": {
+    "$type": "color",
+    "$value": "{steel.000}"
+  }
+}

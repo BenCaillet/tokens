@@ -2,11 +2,11 @@
   "screen": {
     "max-wdith": {
       "$type": "dimension",
-      "$value": "2559px"
+      "$value": "799px"
     },
     "min-wdith": {
       "$type": "dimension",
-      "$value": "1440px"
+      "$value": "500px"
     }
   }
 }

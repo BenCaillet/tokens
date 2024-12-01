@@ -1,0 +1,16 @@
+{
+  "spacing": {
+    "1": {
+      "$type": "spacing",
+      "$value": "4"
+    },
+    "2": {
+      "$type": "spacing",
+      "$value": "{spacing.1} *2"
+    },
+    "3": {
+      "$type": "spacing",
+      "$value": "{spacing.1} *3"
+    }
+  }
+}
