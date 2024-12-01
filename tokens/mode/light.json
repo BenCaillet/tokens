@@ -1,0 +1,12 @@
+{
+  "blue": {
+    "100": {
+      "value": "#bde9ff",
+      "type": "color"
+    },
+    "000": {
+      "value": "#e6f6ff",
+      "type": "color"
+    }
+  }
+}

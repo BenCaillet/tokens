@@ -1,0 +1,24 @@
+{
+  "headings": {
+    "value": "Industry",
+    "type": "text"
+  },
+  "body": {
+    "value": "Rajdhani",
+    "type": "text"
+  },
+  "spacing": {
+    "1": {
+      "value": 4,
+      "type": "number"
+    },
+    "2": {
+      "value": 8,
+      "type": "number"
+    },
+    "3": {
+      "value": 12,
+      "type": "number"
+    }
+  }
+}

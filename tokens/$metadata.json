@@ -2,6 +2,11 @@
   "tokenSetOrder": [
     "web/styles",
     "breakpoint/extra_large",
-    "large"
+    "breakpoint/large",
+    "mode/light",
+    "mode/dark",
+    "brand/ktm",
+    "brand/hqv",
+    "brand/gg"
   ]
 }
