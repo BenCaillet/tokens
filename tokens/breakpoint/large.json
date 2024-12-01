@@ -1,1 +1,12 @@
-{}
+{
+  "screen": {
+    "max-wdith": {
+      "value": "1439px",
+      "type": "dimension"
+    },
+    "min-wdith": {
+      "value": "800px",
+      "type": "dimension"
+    }
+  }
+}

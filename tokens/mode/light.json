@@ -8,5 +8,11 @@
       "value": "#e6f6ff",
       "type": "color"
     }
+  },
+  "orange": {
+    "000": {
+      "value": "#ff6600",
+      "type": "color"
+    }
   }
 }

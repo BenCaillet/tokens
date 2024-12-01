@@ -7,18 +7,12 @@
     "value": "Helvetica Neue",
     "type": "text"
   },
-  "spacing": {
-    "1": {
-      "value": 4,
-      "type": "number"
-    },
-    "2": {
-      "value": 8,
-      "type": "number"
-    },
-    "3": {
-      "value": 12,
-      "type": "number"
-    }
+  "Steel": {
+    "value": "#211f68",
+    "type": "color"
+  },
+  "primary": {
+    "value": "{Steel}",
+    "type": "color"
   }
 }
