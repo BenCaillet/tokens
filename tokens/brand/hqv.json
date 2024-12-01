@@ -7,12 +7,8 @@
     "value": "Helvetica Neue",
     "type": "text"
   },
-  "Steel": {
-    "value": "#211f68",
-    "type": "color"
-  },
   "primary": {
-    "value": "{Steel}",
+    "value": "{steel.000}",
     "type": "color"
   }
 }

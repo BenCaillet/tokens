@@ -14,5 +14,17 @@
       "value": "#ff6600",
       "type": "color"
     }
+  },
+  "steel": {
+    "000": {
+      "value": "#060045",
+      "type": "color"
+    }
+  },
+  "ruby": {
+    "000": {
+      "value": "#9e2121",
+      "type": "color"
+    }
   }
 }
