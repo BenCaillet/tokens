@@ -96,8 +96,7 @@
     "selectedTokenSets": {
       "web/styles": "source",
       "breakpoint/extra_large": "enabled",
-      "web/components": "source",
-      "core/measures": "source"
+      "web/components": "source"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:9:2",
@@ -114,8 +113,7 @@
     "selectedTokenSets": {
       "web/styles": "source",
       "web/components": "source",
-      "breakpoint/large": "enabled",
-      "core/measures": "source"
+      "breakpoint/large": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:9:2",
@@ -130,7 +128,6 @@
     "name": "M",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/measures": "source",
       "breakpoint/medium": "enabled",
       "web/styles": "source",
       "web/components": "source"
@@ -150,8 +147,7 @@
     "selectedTokenSets": {
       "web/styles": "source",
       "web/components": "source",
-      "breakpoint/small": "enabled",
-      "core/measures": "source"
+      "breakpoint/small": "enabled"
     },
     "group": "breakpoint",
     "$figmaCollectionId": "VariableCollectionId:9:2",

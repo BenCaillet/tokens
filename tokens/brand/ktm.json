@@ -1,14 +1,164 @@
 {
-  "headings": {
-    "value": "Blender Pro",
-    "type": "text"
+  "brand": {
+    "primary": {
+      "default": {
+        "value": "{orange.500}",
+        "type": "color",
+        "description": "Default primary color for elements."
+      },
+      "hovered": {
+        "value": "{orange.550}",
+        "type": "color",
+        "description": "Primary color when hovered over."
+      },
+      "pressed": {
+        "value": "{orange.700}",
+        "type": "color",
+        "description": "Primary color when pressed."
+      },
+      "inactive": {
+        "value": "{orange.350}",
+        "type": "color",
+        "description": "Default primary color for elements."
+      }
+    }
   },
-  "body": {
-    "value": "Trade Gothic LT",
-    "type": "text"
+  "opacity": {
+    "brand": {
+      "5": {
+        "value": "{opacity.orange.50}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "10": {
+        "value": "{opacity.orange.100}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "15": {
+        "value": "{opacity.orange.150}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "20": {
+        "value": "{opacity.orange.200}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "25": {
+        "value": "{opacity.orange.250}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "30": {
+        "value": "{opacity.orange.300}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "35": {
+        "value": "{opacity.orange.350}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "40": {
+        "value": "{opacity.orange.400}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "45": {
+        "value": "{opacity.orange.450}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "50": {
+        "value": "{opacity.orange.500}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "55": {
+        "value": "{opacity.orange.550}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "60": {
+        "value": "{opacity.orange.600}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "65": {
+        "value": "{opacity.orange.650}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "70": {
+        "value": "{opacity.orange.700}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "75": {
+        "value": "{opacity.orange.750}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "80": {
+        "value": "{opacity.orange.800}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "85": {
+        "value": "{opacity.orange.850}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "90": {
+        "value": "{opacity.orange.900}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "95": {
+        "value": "{opacity.orange.950}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      }
+    }
   },
-  "primary": {
-    "value": "{orange.000}",
-    "type": "color"
+  "font-family": {
+    "headings": {
+      "value": "Blender Pro",
+      "type": "text",
+      "description": "Font family used for headings text."
+    },
+    "body": {
+      "value": "Trade Gothic LT Com",
+      "type": "text",
+      "description": "Font family used for body text."
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "Roman",
+      "type": "text",
+      "description": "Regular font weight for text."
+    },
+    "medium": {
+      "value": "medium",
+      "type": "text",
+      "description": "Medium font weight for text."
+    },
+    "bold": {
+      "value": "bold",
+      "type": "text",
+      "description": "Bold font weight for text."
+    },
+    "extra-bold": {
+      "value": "heavy",
+      "type": "text",
+      "description": "Extra bold font weight for text."
+    },
+    "bold-alt": {
+      "value": "Bold No.2",
+      "type": "text",
+      "description": "Bold font weight for text."
+    }
   }
 }

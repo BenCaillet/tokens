@@ -15,7 +15,6 @@
     "brand/ktm",
     "brand/hqv",
     "brand/gg",
-    "core/tokens",
-    "core/measures"
+    "core/tokens"
   ]
 }

@@ -1,14 +1,164 @@
 {
-  "headings": {
-    "value": "Helvetica Neue",
-    "type": "text"
+  "brand": {
+    "primary": {
+      "default": {
+        "value": "{steel.800}",
+        "type": "color",
+        "description": "Default primary color for elements."
+      },
+      "hovered": {
+        "value": "{steel.750}",
+        "type": "color",
+        "description": "Primary color when hovered over."
+      },
+      "pressed": {
+        "value": "{steel.600}",
+        "type": "color",
+        "description": "Primary color when pressed."
+      },
+      "inactive": {
+        "value": "{steel.650}",
+        "type": "color",
+        "description": "Default primary color for elements."
+      }
+    }
   },
-  "body": {
-    "value": "Helvetica Neue",
-    "type": "text"
+  "opacity": {
+    "brand": {
+      "5": {
+        "value": "{opacity.steel.50}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "10": {
+        "value": "{opacity.steel.100}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "15": {
+        "value": "{opacity.steel.150}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "20": {
+        "value": "{opacity.steel.200}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "25": {
+        "value": "{opacity.steel.250}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "30": {
+        "value": "{opacity.steel.300}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "35": {
+        "value": "{opacity.steel.350}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "40": {
+        "value": "{opacity.steel.400}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "45": {
+        "value": "{opacity.steel.450}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "50": {
+        "value": "{opacity.steel.500}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "55": {
+        "value": "{opacity.steel.550}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "60": {
+        "value": "{opacity.steel.600}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "65": {
+        "value": "{opacity.steel.650}",
+        "type": "color",
+        "description": "Base background color for surfaces."
+      },
+      "70": {
+        "value": "{opacity.steel.700}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "75": {
+        "value": "{opacity.steel.750}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "80": {
+        "value": "{opacity.steel.800}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      },
+      "85": {
+        "value": "{opacity.steel.850}",
+        "type": "color",
+        "description": "Raised surface background color."
+      },
+      "90": {
+        "value": "{opacity.steel.900}",
+        "type": "color",
+        "description": "Overlay surface background color."
+      },
+      "95": {
+        "value": "{opacity.steel.950}",
+        "type": "color",
+        "description": "Sunken surface background color."
+      }
+    }
   },
-  "primary": {
-    "value": "{steel.000}",
-    "type": "color"
+  "font-family": {
+    "headings": {
+      "value": "Helvetica Neue",
+      "type": "text",
+      "description": "Font family used for headings text."
+    },
+    "body": {
+      "value": "Helvetica Neue",
+      "type": "text",
+      "description": "Font family used for body text."
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "regular",
+      "type": "text",
+      "description": "Regular font weight for text."
+    },
+    "medium": {
+      "value": "medium",
+      "type": "text",
+      "description": "Medium font weight for text."
+    },
+    "bold": {
+      "value": "medium",
+      "type": "text",
+      "description": "Bold font weight for text."
+    },
+    "extra-bold": {
+      "value": "medium",
+      "type": "text",
+      "description": "Extra bold font weight for text."
+    },
+    "bold-alt": {
+      "value": "medium",
+      "type": "text",
+      "description": "Bold font weight for text."
+    }
   }
 }
