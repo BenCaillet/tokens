@@ -1,1 +1,98 @@
-{}
+{
+  "button": {
+    "primary": {
+      "background": {
+        "default": {
+          "value": "{background.brand.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{background.brand.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{background.brand.pressed}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "#963c00",
+          "type": "color"
+        }
+      },
+      "content": {
+        "active": {
+          "value": "{content.primary.inverse.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.primary.inverse.inactive}",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "content": {
+        "default": {
+          "value": "{content.brand.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.primary.inverse.inactive}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{content.brand.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{content.brand.pressed}",
+          "type": "color"
+        }
+      },
+      "base": {
+        "base": {
+          "value": "{background.surface.fill.regular.base}",
+          "type": "color"
+        }
+      },
+      "overlay": {
+        "default": {
+          "value": "{opacity.brand.5}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{opacity.brand.10}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{opacity.brand.15}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{opacity.black.5}",
+          "type": "color"
+        }
+      }
+    },
+    "tertiary": {
+      "content": {
+        "default": {
+          "value": "{content.brand.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{content.brand.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{content.brand.pressed}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.primary.inverse.inactive}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
