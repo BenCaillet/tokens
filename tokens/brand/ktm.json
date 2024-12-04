@@ -122,33 +122,6 @@
       }
     }
   },
-  "font-weight": {
-    "regular": {
-      "value": "Roman",
-      "type": "text",
-      "description": "Regular font weight for text."
-    },
-    "medium": {
-      "value": "medium",
-      "type": "text",
-      "description": "Medium font weight for text."
-    },
-    "bold": {
-      "value": "bold",
-      "type": "text",
-      "description": "Bold font weight for text."
-    },
-    "extra-bold": {
-      "value": "heavy",
-      "type": "text",
-      "description": "Extra bold font weight for text."
-    },
-    "bold-alt": {
-      "value": "Bold No.2",
-      "type": "text",
-      "description": "Bold font weight for text."
-    }
-  },
   "fontFamily": {
     "headings": {
       "value": "Blender Pro",
@@ -160,9 +133,25 @@
     }
   },
   "fontWeight": {
-    "bold": {
-      "value": "700",
-      "type": "fontWeights"
+    "body": {
+      "regular": {
+        "value": "Roman",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold No. 2",
+        "type": "fontWeights"
+      }
+    },
+    "headings": {
+      "regular": {
+        "value": "400",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "700",
+        "type": "fontWeights"
+      }
     }
   }
 }
