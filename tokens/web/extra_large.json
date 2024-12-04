@@ -299,6 +299,32 @@
           "type": "typography"
         }
       }
+    },
+    "subheadings": {
+      "level1": {
+        "value": {
+          "fontFamily": "{fontFamily.headings}",
+          "fontSize": "{fontSize.subheading.level1}",
+          "lineHeight": "{lineHeight.subheading.level1}"
+        },
+        "type": "typography"
+      },
+      "level2": {
+        "value": {
+          "fontFamily": "{fontFamily.headings}",
+          "fontSize": "{fontSize.subheading.level2}",
+          "lineHeight": "{lineHeight.subheading.level2}"
+        },
+        "type": "typography"
+      },
+      "level3": {
+        "value": {
+          "fontFamily": "{fontFamily.headings}",
+          "fontSize": "{fontSize.subheading.level3}",
+          "lineHeight": "{lineHeight.subheading.level3}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
