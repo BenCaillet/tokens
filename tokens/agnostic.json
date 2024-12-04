@@ -608,5 +608,11 @@
       "value": "62.5rem",
       "type": "dimension"
     }
+  },
+  "textDecoration": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
   }
 }

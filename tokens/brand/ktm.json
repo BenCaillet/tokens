@@ -149,15 +149,17 @@
       "description": "Bold font weight for text."
     }
   },
-  "headings": {
-    "value": "Blender Pro",
-    "type": "fontFamilies"
+  "fontFamily": {
+    "headings": {
+      "value": "Blender Pro",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Trade Gothic LT Com",
+      "type": "fontFamilies"
+    }
   },
-  "Body": {
-    "value": "Trade Gothic LT Com",
-    "type": "fontFamilies"
-  },
-  "fw": {
+  "fontWeight": {
     "bold": {
       "value": "700",
       "type": "fontWeights"
