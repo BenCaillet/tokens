@@ -1,0 +1,37 @@
+{
+  "screen": {
+    "max-wdith": {
+      "value": "2559px",
+      "type": "dimension"
+    },
+    "min-wdith": {
+      "value": "1440px",
+      "type": "dimension"
+    }
+  },
+  "fs": {
+    "h1": {
+      "value": "61px",
+      "type": "fontSizes"
+    }
+  },
+  "lh": {
+    "h1": {
+      "value": "61* {line-height-multiplier}",
+      "type": "lineHeights"
+    }
+  },
+  "line-height-multiplier": {
+    "value": "1.3",
+    "type": "number"
+  },
+  "h1": {
+    "value": {
+      "fontSize": "{fs.h1}",
+      "fontFamily": "{headings}",
+      "lineHeight": "{lh.h1}",
+      "fontWeight": "{fw.bold}"
+    },
+    "type": "typography"
+  }
+}

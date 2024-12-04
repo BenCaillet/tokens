@@ -4,17 +4,16 @@
     "ios/components",
     "android/styles",
     "android/components",
-    "web/styles",
-    "web/components",
-    "breakpoint/extra_large",
-    "breakpoint/large",
-    "breakpoint/medium",
-    "breakpoint/small",
+    "web/extra_large",
+    "web/large",
+    "web/medium",
+    "web/small",
     "mode/light",
     "mode/dark",
     "brand/ktm",
     "brand/hqv",
     "brand/gg",
-    "core/tokens"
+    "components",
+    "agnostic"
   ]
 }

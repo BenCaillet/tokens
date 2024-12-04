@@ -99,87 +99,9 @@
         "value": "{gray.constant.350}",
         "type": "color"
       }
-    },
-    "brand": {
-      "default": {
-        "value": "{brand.primary.default}",
-        "type": "color"
-      },
-      "inactive": {
-        "value": "{brand.primary.inactive}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{brand.primary.hovered}",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "{brand.primary.pressed}",
-        "type": "color"
-      }
-    },
-    "link": {
-      "primary": {
-        "regular": {
-          "default": {
-            "value": "{content.primary.regular.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{content.brand.hover}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{content.brand.pressed}",
-            "type": "color"
-          }
-        },
-        "inverse": {
-          "default": {
-            "value": "{content.primary.inverse.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{content.brand.hover}",
-            "type": "color"
-          },
-          "pressed": {
-            "value": "{content.brand.pressed}",
-            "type": "color"
-          }
-        }
-      },
-      "secondary": {
-        "default": {
-          "value": "{content.secondary.default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{content.brand.hover}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{content.brand.pressed}",
-          "type": "color"
-        }
-      }
     }
   },
   "background": {
-    "brand": {
-      "default": {
-        "value": "{brand.primary.default}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{brand.primary.hovered}",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "{brand.primary.pressed}",
-        "type": "color"
-      }
-    },
     "surface": {
       "fill": {
         "regular": {

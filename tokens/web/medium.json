@@ -1,0 +1,28 @@
+{
+  "screen": {
+    "max-wdith": {
+      "value": "799px",
+      "type": "dimension"
+    },
+    "min-wdith": {
+      "value": "500px",
+      "type": "dimension"
+    }
+  },
+  "fs": {
+    "h1": {
+      "value": "49px",
+      "type": "fontSizes"
+    }
+  },
+  "lh": {
+    "h1": {
+      "value": "49* {line-height-multiplier}",
+      "type": "lineHeights"
+    }
+  },
+  "line-height-multiplier": {
+    "value": "1.3",
+    "type": "number"
+  }
+}

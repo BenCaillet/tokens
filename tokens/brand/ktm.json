@@ -122,18 +122,6 @@
       }
     }
   },
-  "font-family": {
-    "headings": {
-      "value": "Blender Pro",
-      "type": "text",
-      "description": "Font family used for headings text."
-    },
-    "body": {
-      "value": "Trade Gothic LT Com",
-      "type": "text",
-      "description": "Font family used for body text."
-    }
-  },
   "font-weight": {
     "regular": {
       "value": "Roman",
@@ -159,6 +147,20 @@
       "value": "Bold No.2",
       "type": "text",
       "description": "Bold font weight for text."
+    }
+  },
+  "headings": {
+    "value": "Blender Pro",
+    "type": "fontFamilies"
+  },
+  "Body": {
+    "value": "Trade Gothic LT Com",
+    "type": "fontFamilies"
+  },
+  "fw": {
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
     }
   }
 }
