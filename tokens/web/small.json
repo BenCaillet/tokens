@@ -9,16 +9,136 @@
       "type": "dimension"
     }
   },
-  "fs": {
-    "h1": {
-      "value": "43px",
-      "type": "fontSizes"
+  "fontSize": {
+    "headline": {
+      "large": {
+        "value": "4.1992rem",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "3.3594rem",
+        "type": "fontSizes"
+      }
+    },
+    "heading": {
+      "level1": {
+        "value": "2.6875rem",
+        "type": "fontSizes"
+      },
+      "level2": {
+        "value": "2.1250rem",
+        "type": "fontSizes"
+      },
+      "level3": {
+        "value": "1.6875rem",
+        "type": "fontSizes"
+      },
+      "level4": {
+        "value": "1.3750rem",
+        "type": "fontSizes"
+      },
+      "level5": {
+        "value": "1.1250rem",
+        "type": "fontSizes"
+      },
+      "level6": {
+        "value": "1.0000rem",
+        "type": "fontSizes"
+      }
+    },
+    "subheading": {
+      "level1": {
+        "value": "2.1250rem",
+        "type": "fontSizes"
+      },
+      "level2": {
+        "value": "1.6875rem",
+        "type": "fontSizes"
+      },
+      "level3": {
+        "value": "1.2500rem",
+        "type": "fontSizes"
+      }
+    },
+    "content": {
+      "regular": {
+        "value": "1.0000rem",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "0.8750rem",
+        "type": "fontSizes"
+      },
+      "tiny": {
+        "value": "0.7500rem",
+        "type": "fontSizes"
+      }
     }
   },
-  "lh": {
-    "h1": {
-      "value": "43* {line-height-multiplier}",
-      "type": "lineHeights"
+  "lineHeight": {
+    "headline": {
+      "large": {
+        "value": "4.1992rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "small": {
+        "value": "3.3594rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      }
+    },
+    "heading": {
+      "level1": {
+        "value": "2.6875rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level2": {
+        "value": "2.1250rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level3": {
+        "value": "1.6875rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level4": {
+        "value": "1.3750rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level5": {
+        "value": "1.1250rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level6": {
+        "value": "1.0000rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      }
+    },
+    "subheading": {
+      "level1": {
+        "value": "2.1250rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level2": {
+        "value": "1.6875rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "level3": {
+        "value": "1.2500rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      }
+    },
+    "content": {
+      "regular": {
+        "value": "1.0000rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "small": {
+        "value": "0.8750rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      },
+      "tiny": {
+        "value": "0.7500rem * {line-height-multiplier}",
+        "type": "lineHeights"
+      }
     }
   },
   "line-height-multiplier": {
