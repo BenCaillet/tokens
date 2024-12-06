@@ -15,7 +15,7 @@
           "type": "color"
         },
         "inactive": {
-          "value": "{brand.primary.inactive}",
+          "value": "{background.inactive}",
           "type": "color"
         }
       },
@@ -51,7 +51,7 @@
       },
       "base": {
         "base": {
-          "value": "{background.surface.fill.regular.base}",
+          "value": "{elevation.regular.base}",
           "type": "color"
         }
       },
@@ -90,6 +90,28 @@
         },
         "inactive": {
           "value": "{content.primary.inverse.inactive}",
+          "type": "color"
+        }
+      }
+    },
+    "warning": {
+      "content": {
+        "active": {
+          "value": "{content.black.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.black.inactive}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "active": {
+          "value": "{content.black.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.black.inactive}",
           "type": "color"
         }
       }
