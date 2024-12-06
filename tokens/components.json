@@ -77,15 +77,15 @@
     "tertiary": {
       "content": {
         "default": {
-          "value": "{brand.primary.default}",
+          "value": "{gray.inverse.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{brand.primary.hovered}",
+          "value": "{gray.inverse.750}",
           "type": "color"
         },
         "pressed": {
-          "value": "{brand.primary.pressed}",
+          "value": "{gray.inverse.900}",
           "type": "color"
         },
         "inactive": {
