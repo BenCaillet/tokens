@@ -106,12 +106,80 @@
         }
       },
       "background": {
-        "active": {
-          "value": "{content.black.default}",
+        "default": {
+          "value": "{feedback.warning.surface.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{feedback.warning.surface.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{feedback.warning.surface.pressed}",
           "type": "color"
         },
         "inactive": {
-          "value": "{content.black.inactive}",
+          "value": "{background.inactive}",
+          "type": "color"
+        }
+      }
+    },
+    "success": {
+      "content": {
+        "active": {
+          "value": "{content.white.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.white.inactive}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{feedback.success.surface.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{feedback.success.surface.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{feedback.success.surface.pressed}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{background.inactive}",
+          "type": "color"
+        }
+      }
+    },
+    "danger": {
+      "content": {
+        "active": {
+          "value": "{content.white.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.white.inactive}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{feedback.error.surface.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{feedback.error.surface.hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{feedback.error.surface.pressed}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{background.inactive}",
           "type": "color"
         }
       }
