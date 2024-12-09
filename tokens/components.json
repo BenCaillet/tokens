@@ -184,5 +184,85 @@
         }
       }
     }
+  },
+  "input": {
+    "label": {
+      "default": {
+        "value": "{content.primary.regular.default}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{brand.primary.default}",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "{content.primary.regular.inactive}",
+        "type": "color"
+      }
+    },
+    "field": {
+      "content": {
+        "default": {
+          "value": "{content.primary.regular.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{content.primary.regular.inactive}",
+          "type": "color"
+        }
+      },
+      "placeholder": {
+        "default": {
+          "value": "{gray.inverse.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{gray.inverse.550}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{gray.inverse.700}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{gray.inverse.350}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{opacity.B2W.20}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{opacity.B2W.40}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{opacity.B2W.60}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.primary.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{opacity.B2W.5}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{feedback.danger.content.medium}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "helper": {
+    "borderWidth": {
+      "regular": {
+        "value": "1",
+        "type": "borderWidth"
+      }
+    }
   }
 }
