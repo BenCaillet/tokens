@@ -3,6 +3,10 @@
     "focus": {
       "value": "{cobalt.300}",
       "type": "color"
+    },
+    "required": {
+      "value": "{red.400}",
+      "type": "color"
     }
   },
   "feedback": {

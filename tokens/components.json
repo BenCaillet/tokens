@@ -267,6 +267,34 @@
       }
     }
   },
+  "dropdown": {
+    "item": {
+      "content": {
+        "default": {
+          "value": "{content.primary.regular.default}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.primary.default}",
+          "type": "color"
+        }
+      },
+      "background": {
+        "default": {
+          "value": "{transparent}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{opacity.B2W.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{opacity.B2W.10}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "helper": {
     "borderWidth": {
       "regular": {
