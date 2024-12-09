@@ -889,6 +889,90 @@
         "value": "#121212",
         "type": "color"
       }
+    },
+    "elevation": {
+      "regular": {
+        "sunken": {
+          "value": "#f4f4f4",
+          "type": "color"
+        },
+        "base": {
+          "value": "{gray.inverse.0}",
+          "type": "color"
+        },
+        "raised": {
+          "value": "{gray.inverse.0}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "{gray.inverse.0}",
+          "type": "color"
+        }
+      },
+      "shadow": {
+        "regular": {
+          "value": "{opacity.black.50}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{transparent}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "sunken": {
+          "value": "#121212",
+          "type": "color"
+        },
+        "base": {
+          "value": "{gray.inverse.1050}",
+          "type": "color"
+        },
+        "raised": {
+          "value": "{gray.inverse.1000}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "{gray.inverse.950}",
+          "type": "color"
+        }
+      },
+      "black": {
+        "sunken": {
+          "value": "{gray.constant.1100}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{gray.constant.1050}",
+          "type": "color"
+        },
+        "raised": {
+          "value": "{gray.constant.1000}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "{gray.constant.950}",
+          "type": "color"
+        }
+      },
+      "white": {
+        "sunken": {
+          "value": "{gray.constant.50}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{gray.constant.0}",
+          "type": "color"
+        },
+        "raised": {
+          "value": "{gray.constant.0}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "{gray.constant.0}",
+          "type": "color"
+        }
+      }
     }
   },
   "acid": {

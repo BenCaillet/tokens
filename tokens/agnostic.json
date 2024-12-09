@@ -244,75 +244,107 @@
   "elevation": {
     "regular": {
       "base": {
-        "value": "{gray.inverse.0}",
+        "value": "{gray.elevation.regular.base}",
         "type": "color"
       },
       "raised": {
-        "value": "{gray.inverse.50}",
+        "value": "{gray.elevation.regular.raised}",
         "type": "color"
       },
       "overlay": {
-        "value": "{gray.inverse.100}",
+        "value": "{gray.elevation.regular.overlay}",
         "type": "color"
       },
       "sunken": {
-        "value": "{gray.inverse.0}",
+        "value": "{gray.elevation.regular.sunken}",
         "type": "color"
       }
     },
     "inverse": {
       "base": {
-        "value": "{gray.inverse.1050}",
+        "value": "{gray.elevation.inverse.base}",
         "type": "color"
       },
       "raised": {
-        "value": "{gray.inverse.1000}",
+        "value": "{gray.elevation.inverse.raised}",
         "type": "color"
       },
       "overlay": {
-        "value": "{gray.inverse.950}",
+        "value": "{gray.elevation.inverse.overlay}",
         "type": "color"
       },
       "sunken": {
-        "value": "{gray.inverse.1100}",
+        "value": "{gray.elevation.inverse.sunken}",
         "type": "color"
       }
     },
     "black": {
       "base": {
-        "value": "{gray.constant.1050}",
+        "value": "{gray.elevation.black.base}",
         "type": "color"
       },
       "raised": {
-        "value": "{gray.constant.1000}",
+        "value": "{gray.elevation.black.raised}",
         "type": "color"
       },
       "overlay": {
-        "value": "{gray.constant.950}",
+        "value": "{gray.elevation.black.overlay}",
         "type": "color"
       },
       "sunken": {
-        "value": "{gray.constant.1100}",
+        "value": "{gray.elevation.black.sunken}",
         "type": "color"
       }
     },
     "white": {
       "base": {
-        "value": "{gray.constant.0}",
+        "value": "{gray.elevation.white.base}",
         "type": "color"
       },
       "raised": {
-        "value": "{gray.constant.50}",
+        "value": "{gray.elevation.white.raised}",
         "type": "color"
       },
       "overlay": {
-        "value": "{gray.constant.100}",
+        "value": "{gray.elevation.white.overlay}",
         "type": "color"
       },
       "sunken": {
-        "value": "{gray.constant.0}",
+        "value": "{gray.elevation.white.sunken}",
         "type": "color"
       }
+    },
+    "raised": {
+      "value": {
+        "x": "0",
+        "y": "{shadow.position.vertical}",
+        "blur": "{shadow.blur.default}",
+        "spread": "{shadow.spread.lower}",
+        "color": "{opacity.black.5}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "overlay": {
+      "value": [
+        {
+          "x": "0",
+          "y": "{shadow.position.vertical}",
+          "blur": "{shadow.blur.default}",
+          "spread": "{shadow.spread.lower}",
+          "color": "{opacity.black.5}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "{shadow.position.vertical}",
+          "blur": "{shadow.blur.default}",
+          "spread": "{shadow.spread.high}",
+          "color": "{opacity.black.5}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   },
   "opacity": {
@@ -743,6 +775,34 @@
     "inactive": {
       "value": "{gray.inverse.50}",
       "type": "color"
+    }
+  },
+  "shadow": {
+    "blur": {
+      "default": {
+        "value": "20px",
+        "type": "dimension"
+      }
+    },
+    "position": {
+      "vertical": {
+        "value": "2px",
+        "type": "dimension"
+      }
+    },
+    "spread": {
+      "high": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "low": {
+        "value": "-1px",
+        "type": "dimension"
+      },
+      "lower": {
+        "value": "-7px",
+        "type": "dimension"
+      }
     }
   }
 }
