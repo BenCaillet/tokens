@@ -254,6 +254,16 @@
           "value": "{feedback.danger.content.medium}",
           "type": "color"
         }
+      },
+      "background": {
+        "active": {
+          "value": "{transparent}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{background.inactive}",
+          "type": "color"
+        }
       }
     }
   },
