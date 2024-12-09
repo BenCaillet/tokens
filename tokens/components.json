@@ -167,15 +167,15 @@
       },
       "background": {
         "default": {
-          "value": "{feedback.error.surface.default}",
+          "value": "{feedback.danger.surface.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{feedback.error.surface.hover}",
+          "value": "{feedback.danger.surface.hover}",
           "type": "color"
         },
         "pressed": {
-          "value": "{feedback.error.surface.pressed}",
+          "value": "{feedback.danger.surface.pressed}",
           "type": "color"
         },
         "inactive": {

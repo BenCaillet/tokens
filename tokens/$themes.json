@@ -1533,15 +1533,6 @@
       "feedback.warning.link.default": "3e2da770030c93a64deda75bb319fa74afc58225",
       "feedback.warning.link.hover": "f87a56e1957ad2a76adcd5487c8422256c3bda62",
       "feedback.warning.link.pressed": "b2cac57e1ddecfc4cf601cc72c901890cc34cec4",
-      "feedback.error.content.subtle": "cde951f2131866bd45475644ff84a505ffbab590",
-      "feedback.error.content.medium": "65057eed05948339d7e64b2ee487fee3aeb390b7",
-      "feedback.error.content.dark": "2717097e1a8d40d3c5d13ea60ff94ba886cd4b50",
-      "feedback.error.surface.default": "8bc1231575ab2b4b2b31645709a46ee3a0ca240b",
-      "feedback.error.surface.hover": "f1c23427bad14c9961b7dfa609eecaac314c665c",
-      "feedback.error.surface.pressed": "8158f4732a812fa5cbb4fc53f610b86b9f0cb20a",
-      "feedback.error.link.default": "3ac599fbf3e9f1697de3b7fe9a00b233c3cc35a9",
-      "feedback.error.link.hover": "6b30bf7b08a290d86da2fd00193837f0f29eb833",
-      "feedback.error.link.pressed": "f77ae17f5947be7353209e11fa08acd2e5f8f78b",
       "content.primary.regular.default": "e7b79b02dc7d223a93606e925ddb41f3175059b4",
       "content.primary.regular.inactive": "d33c23d0f13395b10405df72af82d0ca07b30eb3",
       "content.primary.inverse.default": "da38e59c3f554395b441571702518c9edc29f333",
@@ -1665,7 +1656,16 @@
       "spacing.300": "b6bf7f825ab1ed2917dc4704bf6f2131748bacd2",
       "spacing.400": "87195e6e7478705ba9954fafa145cc7c9ba403bb",
       "spacing.500": "0d436f69238ca9e7d75445e6b1ecf07fc73ca572",
-      "spacing.600": "6325897aeb8233d79eb1d77c635e3197ca27ff64"
+      "spacing.600": "6325897aeb8233d79eb1d77c635e3197ca27ff64",
+      "feedback.danger.content.subtle": "cde951f2131866bd45475644ff84a505ffbab590",
+      "feedback.danger.content.medium": "65057eed05948339d7e64b2ee487fee3aeb390b7",
+      "feedback.danger.content.dark": "2717097e1a8d40d3c5d13ea60ff94ba886cd4b50",
+      "feedback.danger.surface.default": "8bc1231575ab2b4b2b31645709a46ee3a0ca240b",
+      "feedback.danger.surface.hover": "f1c23427bad14c9961b7dfa609eecaac314c665c",
+      "feedback.danger.surface.pressed": "8158f4732a812fa5cbb4fc53f610b86b9f0cb20a",
+      "feedback.danger.link.default": "3ac599fbf3e9f1697de3b7fe9a00b233c3cc35a9",
+      "feedback.danger.link.hover": "6b30bf7b08a290d86da2fd00193837f0f29eb833",
+      "feedback.danger.link.pressed": "f77ae17f5947be7353209e11fa08acd2e5f8f78b"
     }
   }
 ]
