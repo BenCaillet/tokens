@@ -345,6 +345,10 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "border": {
+      "value": "{opacity.B2W.5}",
+      "type": "color"
     }
   },
   "opacity": {
