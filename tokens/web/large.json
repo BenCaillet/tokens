@@ -251,6 +251,15 @@
             "fontWeight": "{fontWeight.body.regular}"
           },
           "type": "typography"
+        },
+        "action": {
+          "value": {
+            "fontFamily": "{fontFamily.headings}",
+            "fontWeight": "{fontWeight.body.bold}",
+            "fontSize": "{fontSize.content.regular}",
+            "lineHeight": "{lineHeight.content.regular}"
+          },
+          "type": "typography"
         }
       },
       "small": {

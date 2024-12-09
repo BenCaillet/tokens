@@ -1188,7 +1188,8 @@
       "typography.content.tiny.link": "S:536ec9e2c001fc68b33f1b602d07928e6704fcc3,",
       "typography.subheadings.level1": "S:c2d8a466994407e8033850a3281b5dbb5098abe3,",
       "typography.subheadings.level2": "S:7ea61624b3c4f8223fae0fdec1fcac36b5cdbe7d,",
-      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,"
+      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,",
+      "typography.content.regular.action": "S:d981bad57e7fbe3385c4981e35949e1dd9928e7c,"
     },
     "selectedTokenSets": {
       "web/extra_large": "enabled",
@@ -1255,7 +1256,8 @@
       "typography.content.tiny.link": "S:536ec9e2c001fc68b33f1b602d07928e6704fcc3,",
       "typography.subheadings.level1": "S:c2d8a466994407e8033850a3281b5dbb5098abe3,",
       "typography.subheadings.level2": "S:7ea61624b3c4f8223fae0fdec1fcac36b5cdbe7d,",
-      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,"
+      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,",
+      "typography.content.regular.action": "S:d981bad57e7fbe3385c4981e35949e1dd9928e7c,"
     },
     "selectedTokenSets": {
       "web/large": "enabled",
@@ -1321,7 +1323,8 @@
       "typography.content.tiny.link": "S:536ec9e2c001fc68b33f1b602d07928e6704fcc3,",
       "typography.subheadings.level1": "S:c2d8a466994407e8033850a3281b5dbb5098abe3,",
       "typography.subheadings.level2": "S:7ea61624b3c4f8223fae0fdec1fcac36b5cdbe7d,",
-      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,"
+      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,",
+      "typography.content.regular.action": "S:d981bad57e7fbe3385c4981e35949e1dd9928e7c,"
     },
     "selectedTokenSets": {
       "web/medium": "enabled",
@@ -1387,7 +1390,8 @@
       "typography.content.tiny.link": "S:536ec9e2c001fc68b33f1b602d07928e6704fcc3,",
       "typography.subheadings.level1": "S:c2d8a466994407e8033850a3281b5dbb5098abe3,",
       "typography.subheadings.level2": "S:7ea61624b3c4f8223fae0fdec1fcac36b5cdbe7d,",
-      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,"
+      "typography.subheadings.level3": "S:22250cc92bc184ebeb2a477b1befa88afcefe8ee,",
+      "typography.content.regular.action": "S:d981bad57e7fbe3385c4981e35949e1dd9928e7c,"
     },
     "selectedTokenSets": {
       "web/small": "enabled",
