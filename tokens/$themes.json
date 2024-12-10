@@ -2079,5 +2079,38 @@
       "lineHeight.caption2": "1558caee1b3a1d4b5da5367d57b6522dc671a1c4"
     },
     "group": "ios"
+  },
+  {
+    "id": "c2ca1d40edfb0244ecb239f8686e61617d8e00c1",
+    "name": "100",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "android/100": "enabled",
+      "components": "source",
+      "agnostic": "source"
+    },
+    "group": "android"
+  },
+  {
+    "id": "13e823b0c62f03ad898f08e7319477a58e32c3e7",
+    "name": "150",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "android/150": "enabled",
+      "components": "source",
+      "agnostic": "source"
+    },
+    "group": "android"
+  },
+  {
+    "id": "15d90a96f790770880433fe1d3e5de8ec0ac9319",
+    "name": "200",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "android/200": "enabled",
+      "components": "source",
+      "agnostic": "source"
+    },
+    "group": "android"
   }
 ]
