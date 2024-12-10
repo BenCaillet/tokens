@@ -1102,12 +1102,11 @@
       "opacity.brand.85": "bfd01335cc80b309ef373528e1b5b35662974915",
       "opacity.brand.90": "c89fe270da0f51e32aba4be8511a40611211c3f5",
       "opacity.brand.95": "504cf367fe679a36b578c26ec6be1ce6c2b9e170",
-      "fontFamily.headings": "fdd99bbca91f697af75b1001d1ab7fc39861de07",
-      "fontFamily.body": "d2be5f3b22374061a6583ca8ef763fd28f818643",
-      "fontWeight.body.regular": "a7ad39e22caec322ada63f68e9330d7bd6ccfd0a",
-      "fontWeight.body.bold": "ffc95d5058061b02061d6f55cbfdd877f0c7d964",
-      "fontWeight.headings.regular": "98825c5879d36771d4bd806e53407d8018741288",
-      "fontWeight.headings.bold": "a2e1cf39bad1307c5171c44cd8acb2794c33aef4"
+      "fontFamily.headings": "cac4bc17d098d916f780bab4c536d439b49822be",
+      "fontFamily.body": "36142382ab010b99745ead1255fb9a29f447d6fe",
+      "fontWeight.body.regular": "114750e582d2fa3c60459567bb0be221c5f2b2d8",
+      "fontWeight.body.bold": "ce520bf0fc83da7a952af954de9744e0651692df",
+      "fontWeight.headings.bold": "2d9391d3b976437e168bc8fc5c9b157ba9217aa6"
     },
     "group": "brand"
   },
@@ -1146,13 +1145,11 @@
       "opacity.brand.85": "bfd01335cc80b309ef373528e1b5b35662974915",
       "opacity.brand.90": "c89fe270da0f51e32aba4be8511a40611211c3f5",
       "opacity.brand.95": "504cf367fe679a36b578c26ec6be1ce6c2b9e170",
-      "font-family.headings": "2a17a543951737d1548045230f698c34328081d6",
-      "font-family.body": "2f8f8456510a616a7c4fffe7af3e081887c0f4a2",
-      "font-weight.regular": "b5427ef37ceec8e00254ef3623b61a1a1d8aebd1",
-      "font-weight.medium": "af02804243dc48a471c519ff6471b00d8c8f6af0",
-      "font-weight.bold": "a642cf5be59475ae0ee46b157cce80d239045806",
-      "font-weight.extra-bold": "f7f467964a15d4ffbc5d96eba21b238c26922325",
-      "font-weight.bold-alt": "3fc90e7d1e674023e74c6aa24ccd0a490011692a"
+      "fontFamily.headings": "cac4bc17d098d916f780bab4c536d439b49822be",
+      "fontFamily.body": "36142382ab010b99745ead1255fb9a29f447d6fe",
+      "fontWeight.body.regular": "114750e582d2fa3c60459567bb0be221c5f2b2d8",
+      "fontWeight.body.bold": "ce520bf0fc83da7a952af954de9744e0651692df",
+      "fontWeight.headings.bold": "2d9391d3b976437e168bc8fc5c9b157ba9217aa6"
     },
     "group": "brand"
   },
@@ -1191,13 +1188,11 @@
       "opacity.brand.85": "bfd01335cc80b309ef373528e1b5b35662974915",
       "opacity.brand.90": "c89fe270da0f51e32aba4be8511a40611211c3f5",
       "opacity.brand.95": "504cf367fe679a36b578c26ec6be1ce6c2b9e170",
-      "font-family.headings": "2a17a543951737d1548045230f698c34328081d6",
-      "font-family.body": "2f8f8456510a616a7c4fffe7af3e081887c0f4a2",
-      "font-weight.regular": "b5427ef37ceec8e00254ef3623b61a1a1d8aebd1",
-      "font-weight.medium": "af02804243dc48a471c519ff6471b00d8c8f6af0",
-      "font-weight.bold": "a642cf5be59475ae0ee46b157cce80d239045806",
-      "font-weight.extra-bold": "f7f467964a15d4ffbc5d96eba21b238c26922325",
-      "font-weight.bold-alt": "3fc90e7d1e674023e74c6aa24ccd0a490011692a"
+      "fontFamily.headings": "cac4bc17d098d916f780bab4c536d439b49822be",
+      "fontFamily.body": "36142382ab010b99745ead1255fb9a29f447d6fe",
+      "fontWeight.body.regular": "114750e582d2fa3c60459567bb0be221c5f2b2d8",
+      "fontWeight.body.bold": "ce520bf0fc83da7a952af954de9744e0651692df",
+      "fontWeight.headings.bold": "2d9391d3b976437e168bc8fc5c9b157ba9217aa6"
     },
     "group": "brand"
   },
@@ -1630,6 +1625,7 @@
       "elevation.white.raised": "5a01a431574b4329ba210970984e3d15428809d5",
       "elevation.white.overlay": "6103764aca826486f3dbc16f4316b66d14d98e87",
       "elevation.white.sunken": "63b4a3b421c139f70816dadbf7fa48ef1c290ba4",
+      "elevation.border": "d5d4c02850edbf41b6850a1ba38aa4e9044547ad",
       "opacity.black.5": "84366668f42e050166285b9da9e466431e3b529c",
       "opacity.black.10": "2f6f968c7008f7d0296eeceac48e83f19e2c25b1",
       "opacity.black.15": "e307bf8d8158a71fe3fa01d9aa46c8a738d5e497",
@@ -1732,8 +1728,7 @@
       "shadow.position.vertical": "3b8bdab58f5abd24554879b6f5abce4d248a0cd4",
       "shadow.spread.high": "32a5b9dd75d3e94a2adc5c62cb960c4705c96d08",
       "shadow.spread.low": "114034f7ac93a9d9e8c6ca45a28dc0ec822a045d",
-      "shadow.spread.lower": "809abda4437aa6e0df29096c5cf2dda99be00bba",
-      "elevation.border": "d5d4c02850edbf41b6850a1ba38aa4e9044547ad"
+      "shadow.spread.lower": "809abda4437aa6e0df29096c5cf2dda99be00bba"
     },
     "group": "agnostic"
   },

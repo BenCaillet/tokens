@@ -122,43 +122,32 @@
       }
     }
   },
-  "font-family": {
+  "fontFamily": {
     "headings": {
       "value": "Helvetica Neue",
-      "type": "text",
-      "description": "Font family used for headings text."
+      "type": "fontFamilies"
     },
     "body": {
       "value": "Helvetica Neue",
-      "type": "text",
-      "description": "Font family used for body text."
+      "type": "fontFamilies"
     }
   },
-  "font-weight": {
-    "regular": {
-      "value": "regular",
-      "type": "text",
-      "description": "Regular font weight for text."
+  "fontWeight": {
+    "body": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     },
-    "medium": {
-      "value": "medium",
-      "type": "text",
-      "description": "Medium font weight for text."
-    },
-    "bold": {
-      "value": "medium",
-      "type": "text",
-      "description": "Bold font weight for text."
-    },
-    "extra-bold": {
-      "value": "medium",
-      "type": "text",
-      "description": "Extra bold font weight for text."
-    },
-    "bold-alt": {
-      "value": "medium",
-      "type": "text",
-      "description": "Bold font weight for text."
+    "headings": {
+      "bold": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
     }
   }
 }

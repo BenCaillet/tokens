@@ -144,12 +144,8 @@
       }
     },
     "headings": {
-      "regular": {
-        "value": "400",
-        "type": "fontWeights"
-      },
       "bold": {
-        "value": "700",
+        "value": "Bold",
         "type": "fontWeights"
       }
     }

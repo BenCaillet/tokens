@@ -122,43 +122,34 @@
       }
     }
   },
-  "font-family": {
+  "fontFamily": {
     "headings": {
       "value": "Industry",
-      "type": "text",
+      "type": "fontFamilies",
       "description": "Font family used for headings text."
     },
     "body": {
       "value": "Rajdhani",
-      "type": "text",
+      "type": "fontFamilies",
       "description": "Font family used for body text."
     }
   },
-  "font-weight": {
-    "regular": {
-      "value": "Medium",
-      "type": "text",
-      "description": "Regular font weight for text."
+  "fontWeight": {
+    "body": {
+      "regular": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     },
-    "medium": {
-      "value": "Bold Italic",
-      "type": "text",
-      "description": "Medium font weight for text."
-    },
-    "bold": {
-      "value": "Black Italic",
-      "type": "text",
-      "description": "Bold font weight for text."
-    },
-    "extra-bold": {
-      "value": "Ultra Italic",
-      "type": "text",
-      "description": "Extra bold font weight for text."
-    },
-    "bold-alt": {
-      "value": "Black Italic",
-      "type": "text",
-      "description": "Bold font weight for text."
+    "headings": {
+      "bold": {
+        "value": "Ultra Italic",
+        "type": "fontWeights"
+      }
     }
   }
 }
