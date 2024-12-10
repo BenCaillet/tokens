@@ -151,8 +151,8 @@
       },
       "callout": {
         "value": {
-          "fontFamily": "{fontFamily.body}",
-          "fontWeight": "{fontWeight.body.regular}",
+          "fontFamily": "{fontFamily.headings}",
+          "fontWeight": "{fontWeight.headings.bold}",
           "lineHeight": "{lineHeight.callout}",
           "fontSize": "{fontSize.callout}"
         },
